@@ -14,5 +14,5 @@ Reset Page
 ![Reset Page](img/reset.PNG "Reset Page")
 
 Forgot Password Page
-![Forgot Page](img/forgot password.PNG "Forgot Page")
+
 
